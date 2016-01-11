@@ -1,6 +1,6 @@
 name: First Ascent Photography
 favicon: null
-layout_spectrum: 0.8365029769483954
+layout_spectrum: 1
 typography_spectrum: 0.4979267353191972
 title: First Ascent Photography
 cta:
@@ -23,7 +23,7 @@ color:
     - '#000000'
     - '#8c6948'
   brandStrength: 0.5
-  lightness: 0.4983990848995745
+  lightness: 0.5
   saturation: 0.25
-  rhythmicContrast: 0.11556897778064013
+  rhythmicContrast: 0.5
 purpose: []
